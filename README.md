@@ -26,4 +26,4 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/jorge-ramirez-1b7385
 
 | Platform      | Link                                      |
 |---------------|-------------------------------------------|
-| LinkedIn      | [Jorge Ramirez ↗](https://www.linkedin.com/in/jorge-ramirez-1b7385270/) |
+| Email         | [jorgeatramirez@gmail.com](mailto:jorgeatramirez@gmail.com) |
